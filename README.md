@@ -1,2 +1,2 @@
-# RadixSort GUI
-Card sorting "machine" implemented in Java Swing, using the radix sort algorithm.
+# RadixSort TUI
+Card sorting "machine" implemented with the Lanterna library, using the radix sort algorithm.
