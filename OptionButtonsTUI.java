@@ -43,7 +43,7 @@ public class OptionButtonsTUI extends Panel{
         {
             MessageDialog.showMessageDialog((WindowBasedTextGUI) getTextGUI(),
                     "About Radix Sort TUI",
-                    "Radix Sort TUI Alpha" +
+                    "Radix Sort TUI 1.0" +
                             "\nBy Ian Anderson" +
                             "\nCurrent Memory Usage: " + ((Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()) / 1024) + " KB" +
                             "\nBuilt on " + LocalDate.now());
